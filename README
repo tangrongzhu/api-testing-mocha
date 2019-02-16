@@ -1,0 +1,22 @@
+This is an example of a testing stack for a node.js api. The stack I've put together here includes Mocha, Chai, and SuperTest. Use these tests for reference when you are setting this stack up in your node project.
+
+This tutorial assumes you already have node.js installed.
+
+Install Mocha with npm
+npm install -g mocha
+
+This will install Mocha globally.
+
+Install Chai with npm
+npm install chai
+
+Install SuperTest with npm
+npm install supertest
+
+Install Express with npm
+npm install express
+
+Install Body-Parser with npm
+npm install body-parser
+
+Make sure you are in your project’s parent directory. Then, run the command mocha.
