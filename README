@@ -20,3 +20,6 @@ Install Body-Parser with npm
 npm install body-parser
 
 Make sure you are in your project’s parent directory. Then, run the command mocha.
+
+run below command to get json reporter
+mocha --reporter json
